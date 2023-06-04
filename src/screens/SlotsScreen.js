@@ -20,23 +20,23 @@ const SlotsScreen = () => {
                         Aztec Slots: Aztec-themed slots draw inspiration from the aesthetics of ancient civilizations. You can expect grand temples, crumbling pyramids, and traditional South American artworks in these slots. The vivid color schemes and intriguing visuals make this theme particularly popular among players.{"\n"}{"\n"}
                         Jungle Slots: Jungle-themed slots often have ties with Aztec slots but aren't limited to them. These slots take you deep into lush forests, where exotic animals, tribal artifacts, and hidden treasures await. Jungle slots offer an adventurous and immersive gaming experience.{"\n"}{"\n"}
                         A few examples for slots themes:{"\n"}{"\n"}
-                        - Gonzo's Quest by NetEnt{"\n"}{"\n"}
-                        - Jungle Jim El Dorado by Microgaming{"\n"}{"\n"}
+                        - Gonzo's Quest by NetEnt{"\n"}
+                        - Jungle Jim El Dorado by Microgaming{"\n"}
                         - Amazon Queen by WMS{"\n"}{"\n"}
                         Egyptian Slots: Step into the world of pharaohs, pyramids, and ancient Egyptian mythology with slots themed around this civilization. Egyptian slots often feature iconic symbols like the Eye of Horus and Cleopatra, creating an atmosphere of mystery and intrigue.{"\n"}{"\n"}
                         A few examples for slots themes:{"\n"}{"\n"}
-                        - Book of The Dead By Play'n GO{"\n"}{"\n"}
-                        - Cleopatra By IGT{"\n"}{"\n"}
+                        - Book of The Dead By Play'n GO{"\n"}
+                        - Cleopatra By IGT{"\n"}
                         - Egyptian Heroes by NetEnt{"\n"}{"\n"}
                         Fantasy Slots: If you have a love for all things magical and fantastical, then fantasy-themed slots are the way to go. These slots transport you to enchanted realms filled with mythical creatures, spellbinding landscapes, and epic quests.{"\n"}{"\n"}
                         A few examples for slots themes:{"\n"}{"\n"}
-                        - Immortal Romance by Microgaming{"\n"}{"\n"}
-                        - Warlords: Crystals of Power by NetEnt{"\n"}{"\n"}
+                        - Immortal Romance by Microgaming{"\n"}
+                        - Warlords: Crystals of Power by NetEnt{"\n"}
                         - Avalon II: The Quest for the Grail by Microgaming{"\n"}{"\n"}
                         Movie and TV Slots: Many popular movies {"\n"}and TV shows have been adapted into exciting slot games. Whether you're a fan of superheroes, famous film franchises, or beloved TV series, there's a good chance you'll find a slot game that captures the essence of your favorite on-screen entertainment.{"\n"}{"\n"}
                         A few examples for slots themes:{"\n"}{"\n"}
-                        - Game of Thrones by Microgaming{"\n"}{"\n"}
-                        - Jurassic Park by Microgaming{"\n"}{"\n"}
+                        - Game of Thrones by Microgaming{"\n"}
+                        - Jurassic Park by Microgaming{"\n"}
                         - The Dark Knight by Playtech{"\n"}{"\n"}
                         Sports Slots: Sports-themed slots combine the thrill of gambling with the excitement of athletic competitions. You can find slots based on popular sports like football, basketball, baseball, and more, allowing you to combine your passion for sports with the thrill of spinning the reels.{"\n"}{"\n"}
                         Remember to explore different online casinos and game providers to find a wide range of themes and variations. Each theme offers a unique experience, with captivating visuals, engaging soundtracks, and bonus features that add to the overall enjoyment of playing online slots.

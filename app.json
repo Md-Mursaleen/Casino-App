@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "casinos online",
+    "name": "Online Casino",
     "slug": "casino-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.funcasion.slots.onlinetime"
+      "package": "com.onlinecasino"
     },
     "web": {
       "favicon": "./assets/favicon.png"
